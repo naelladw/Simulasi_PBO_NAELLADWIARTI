@@ -1,6 +1,5 @@
 <?php
-// File: Pendaftaran.php
-
+// File: Pendaftaran.php.
 abstract class Pendaftaran {
     // Properti/Atribut Terenkapsulasi (protected)
     protected $id_pendaftaran;
